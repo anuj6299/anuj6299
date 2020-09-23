@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack Developer</h3>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
 
-<li align="left"> 🔭 I’m currently looking for summer internship 2021</li>
+<li align="left"> 🔭 I’m currently looking for <b>Summer Internship 2021</b></li>
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/anuj6299?tab=repositories">anujsharma.codes</a></li>
 
