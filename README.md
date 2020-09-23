@@ -4,7 +4,7 @@
 
 <li align="left"> 🔭 I’m currently looking for <b>Summer Internship 2021</b></li>
 
-<li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/anuj6299?tab=repositories">anujsharma.codes</a></li>
+<li align="left"> 👨‍💻 All of my projects are available <a href="https://github.com/anuj6299?tab=repositories">here</a></li>
 
 <li align="left"> 💬 Ask me about <b>Django, ReactJS, Python, C/C++</b></li>
 
