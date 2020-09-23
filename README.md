@@ -6,7 +6,7 @@
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/anuj6299?tab=repositories">anujsharma.codes</a></li>
 
-<li align="left"> 💬 Ask me about <b>Django, REST API, AWS, ReactJS, Python, C/C++</b></li>
+<li align="left"> 💬 Ask me about <b>Django, ReactJS, Python, C/C++</b></li>
 
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
 
