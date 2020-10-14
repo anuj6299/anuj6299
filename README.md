@@ -4,6 +4,8 @@
 
 <li align="left"> 🔭 I’m currently looking for <b>Summer Internship 2021</b></li>
 
+<li align="left"> 🎓 Pre-final year IT Student at <b>IIIT Gwalior</b></li>
+
 <li align="left"> 👨‍💻 All of my projects are available <a href="https://github.com/anuj6299?tab=repositories">here</a></li>
 
 <li align="left"> 💬 Ask me about <b>Django, ReactJS, Python, C/C++</b></li>
@@ -11,6 +13,8 @@
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
 
 <li align="left"> ⚡ Fun fact <b>I am the admin of <a href="https://www.facebook.com/mysterioussci">Mysterious Science</a> :D</b></li><br/><br/>
+
+<li align="left"> 🏆 I am <b>Founder of <a href="https://www.facebook.com/mysterioussci">Mysterious Science</a> :D</b></li><br/><br/>
 
 <br/><br/>
 <p align="center">
