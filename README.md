@@ -12,9 +12,9 @@
 
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
 
-<li align="left"> ⚡ Fun fact <b>I am the admin of <a href="https://www.facebook.com/mysterioussci">Mysterious Science</a> :D</b></li>
-
-<li align="left"> 🏆 I am <b>Founder of <a href="http://nogozo.com/">NOGOZO</a> :D</b></li><br/><br/>
+<li align="left"> 🏆 I am <b>Founder of <a href="http://nogozo.com/">NOGOZO</a></li>
+  
+<li align="left"> ⚡ Fun fact <b>I am the admin of <a href="https://www.facebook.com/mysterioussci">Mysterious Science</a> :D</b></li></b><br/><br/>
 
 <br/><br/>
 <p align="center">
