@@ -7,7 +7,7 @@
 
 <li align="left"> 😎 I am <b>Founder of <a href="https://vigyanica.com/">VIGYANICA</a></b></li>
 
-<li align="left"> 😎 I am <b>Founding Software Engineer of <a href="https://github.com/vibecheckit">Vibecheck.it</a></b></li>
+<li align="left"> 😎 I am <b>Founding Software Engineer at <a href="https://github.com/vibecheckit">Vibecheck.it</a></b></li>
 
 <li align="left"> 👨‍💻 All of my projects are available <a href="https://github.com/anuj6299?tab=repositories">here</a></li>
 
