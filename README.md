@@ -2,13 +2,11 @@
 <h3 align="left">Full Stack Web & Android Developer</h3>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
 
-<li align="left"> 🔭 I’m currently looking for <b>Summer Internship 2021</b></li>
-
-<li align="left"> 🎓 Pre-final year IT Student at <b>IIIT Gwalior</b></li>
+<li align="left"> 🎓 Final year IT Student at <b>IIIT Gwalior</b></li>
 
 <li align="left"> 👨‍💻 All of my projects are available <a href="https://github.com/anuj6299?tab=repositories">here</a></li>
 
-<li align="left"> 💬 Ask me about <b>Django, Flutter, Python, C/C++</b></li>
+<li align="left"> 💬 Ask me about <b>Django, React, Flutter, Python, C/C++</b></li>
 
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
 
