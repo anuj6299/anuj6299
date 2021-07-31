@@ -2,18 +2,16 @@
 <h3 align="left">Full Stack Web & Android Developer</h3>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="480px"/>
 
-<li align="left"> 🎓 Final year IT Student at <b>IIIT Gwalior</b></li>
+
+<li align="left"> 🏆 I am <b>Founder of <a href="https://nogozo.com/">NOGOZO</a></b></li>
+
+<li align="left"> 😎 I am <b>Founder of <a href="https://vigyanica.com/">VIGYANICA</a></b></li>
 
 <li align="left"> 👨‍💻 All of my projects are available <a href="https://github.com/anuj6299?tab=repositories">here</a></li>
 
 <li align="left"> 💬 Ask me about <b>Django, React, Flutter, Python, C/C++</b></li>
 
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
-
-<li align="left"> 🏆 I am <b>Founder of <a href="https://nogozo.com/">NOGOZO</a></b></li>
-
-
-<li align="left"> 😎 I am <b>Founder of <a href="https://vigyanica.com/">VIGYANICA</a></b></li>
   
 <li align="left"> ⚡ Fun fact: I am the <b>Admin of <a href="https://www.facebook.com/mysterioussci">Mysterious Science</a> :D</b></li><br/><br/>
 
