@@ -7,7 +7,7 @@
 
 <li align="left"> 😎 I am <b>Founder of <a href="https://vigyanica.com/">VIGYANICA</a></b></li>
 
-<li align="left"> 👨‍💻 I am <b>Founding Software Engineer at <a href="https://github.com/vibecheckit">Vibecheck.it</a></b></li>
+<li align="left"> 👨‍💻 I am <b>Founding Software Engineer at <a href="https://vibecheckgoa.com/Explore">Vibecheck.it</a></b></li>
 
 <li align="left"> 💬 Ask me about <b>Django, React, Flutter, Python, C/C++</b></li>
 
