@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
 <h3 align="left">Full Stack Web & Android Developer</h3>
-<img align="right" src="https://i.pinimg.com/564x/13/e9/e4/13e9e4ed698c6f4b530cdca678e58da8.jpg" width="300px"/>
+<img align="right" src="https://i.pinimg.com/564x/13/e9/e4/13e9e4ed698c6f4b530cdca678e58da8.jpg" width="290px"/>
 
 <h3>💫 About Me:</h3>
 <li align="left">👨‍💻 I’m currently working at 1Bridge as a software engineer </li>
