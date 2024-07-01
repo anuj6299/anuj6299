@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
-<h3 align="left">Full Stack Web & Android Developer</h3>
+<h3 align="left">Software Developer & Entrepreneur</h3>
 
 <h3>💫 About Me:</h3>
 <li align="left">👨‍💻 I’m currently working at 1Bridge as a software engineer </li>
