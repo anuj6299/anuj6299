@@ -2,9 +2,9 @@
 <h3 align="left">Software Developer & Entrepreneur</h3>
 
 <h3>💫 About Me:</h3>
-<li align="left">👨‍💻 I’m currently working at 1Bridge as a software engineer </li>
+<li align="left">👨‍💻 I’m currently working as SDE-2 at Tata 1MG </li>
 <li align="left"> 🏆 I am co-founder of <a href="https://nogozo.com/">NOGOZO</a></li>
-<li align="left">💬 Ask me about Software development, Django, Flutter, React JS </b></li>
+<li align="left">💬 Ask me about Software development, Django, Python, Flutter, React JS </b></li>
 <li align="left"> 📧 Reach me at: <b>anujsharma6299@gmail.com</b></li>
  
 <h3>💻 Tech Stack:</h3>
